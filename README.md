@@ -39,17 +39,14 @@
   <a href="https://linkedin.com/in/indukuri-sailaj-prakash" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />
   </a>
+</p>
+<p align="left>
   <a href="https://instagram.com/indukuri_prakash_17" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" />
   </a>
 </p>
 
 ---
-
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakash-2736&show_icons=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-2736" />
